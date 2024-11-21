@@ -1,0 +1,12 @@
+{
+    "currency": "",
+    "description": [
+        "Avoid dates data"
+    ],
+    "pricescale": [
+        1
+    ],
+    "symbol": [
+        "AVOID_DATES"
+    ]
+}
